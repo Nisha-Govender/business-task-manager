@@ -1,0 +1,31 @@
+
+ADMIN
+Number of tasks assigned:  1
+Percentage of total tasks assigned to each user: 50%
+Percentage of tast that is completed: 0%
+Percentage of tast that must still be completed: 0%
+Percentage of tasks not complete and overdue: 100%
+
+NISHA
+Number of tasks assigned:  0
+Percentage of total tasks assigned to each user: 0%
+Percentage of tast that is completed: 0%
+Percentage of tast that must still be completed: 0%
+Percentage of tasks not complete and overdue: 0%
+
+JOHN
+Number of tasks assigned:  0
+Percentage of total tasks assigned to each user: 0%
+Percentage of tast that is completed: 0%
+Percentage of tast that must still be completed: 0%
+Percentage of tasks not complete and overdue: 0%
+
+SHERIAH
+Number of tasks assigned:  0
+Percentage of total tasks assigned to each user: 0%
+Percentage of tast that is completed: 0%
+Percentage of tast that must still be completed: 0%
+Percentage of tasks not complete and overdue: 0%
+
+Total number Of task created  : 2
+Total number Of users created : 4
